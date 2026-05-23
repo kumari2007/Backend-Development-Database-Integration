@@ -7,8 +7,8 @@ $conn = mysqli_connect(
 "apexdb"
 );
 
-if($conn){
-die("Connection success");
+if(!$conn){
+die("Connection Failed");
 }
 
 ?>
