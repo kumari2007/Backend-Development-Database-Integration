@@ -75,7 +75,15 @@ Update
 </button>
 
 </form>
+<br>
 
+<a href="profile.php">
+
+<button type="button">
+Back
+</button>
+
+</a>
 </div>
 
 </body>
