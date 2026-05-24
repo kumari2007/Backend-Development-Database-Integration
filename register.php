@@ -82,7 +82,13 @@ required>
 name="submit">
 Register
 </button>
-
+<p style="text-align:center;margin-top:15px;">
+Already have an account?
+<a href="login.php"
+style="color:#00c6ff;text-decoration:none;">
+Login
+</a>
+</p>
 </form>
 
 </div>
